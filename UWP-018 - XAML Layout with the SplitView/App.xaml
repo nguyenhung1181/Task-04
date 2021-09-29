@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="UWP_018___XAML_Layout_with_the_SplitView.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWP_018___XAML_Layout_with_the_SplitView">
+
+</Application>
